@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Sun Dec 18 14:24:10 GMT-03:00 2016
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Blackout\\.m2\\repository\\org\\springframework\\spring-web\\4.3.0.RELEASE\\spring-web-4.3.0.RELEASE.jar=C\:\\apache-tomcat-8.0.36\\wtpwebapps\\brewer\\WEB-INF\\lib\\spring-web-4.3.0.RELEASE.jar
-org.eclipse.jst.jee.server\:brewer=C\:\\apache-tomcat-8.0.36\\wtpwebapps\\brewer
